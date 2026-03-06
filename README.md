@@ -1,4 +1,4 @@
-# Homework 2: Data Cleaning & Stock Analysis for the Course of UCB MFE Python Pre-Program 2026
+# Stock Analysis for the Course of UCB MFE Python Pre-Program 2026
 
 **Coder**: Reza Zamani  
 
